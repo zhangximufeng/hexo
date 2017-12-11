@@ -1,5 +1,5 @@
-# 个人博客hexo
-推送[https://zhangximufeng.github.io](https://zhangximufeng.github.io)
+# 个人博客hexo
+推送[http://blog.zhangximufeng.com](http://blog.zhangximufeng.com)
 ```bash
     hexo g -d
 ```
